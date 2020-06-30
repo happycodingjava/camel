@@ -73,7 +73,6 @@
                             <childDelegation>false</childDelegation>
                             <useFile>true</useFile>
                             <failIfNoTests>false</failIfNoTests>
-                            <runOrder>alphabetical</runOrder>
                             <includes>
                                 <include>**/*IntegrationTest.java</include>
                             </includes>
